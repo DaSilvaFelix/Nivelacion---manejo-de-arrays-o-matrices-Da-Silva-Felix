@@ -1,0 +1,2 @@
+para ejecutar los archviso en el index.js solo debe ingresar node index.js y empezara el programa
+para el de python en diferente solo que debe poner python index.py y empezara el programa
