@@ -1,2 +1,3 @@
-para ejecutar los archviso en el index.js solo debe ingresar node index.js y empezara el programa
-para el de python en diferente solo que debe poner python index.py y empezara el programa
+PARA EL ARCHIVO DE JavaScript: para ejecutar los archviso en el index.js solo debe ingresar { node index.js } en la consola y empezara el programa a ejecutarse en la consola
+
+PARA EL ARCHIVO DE Python: para el de python en diferente solo que debe poner { python index.py } en la consola y empezara el programa en la consola 
